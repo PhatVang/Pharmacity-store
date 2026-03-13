@@ -13,6 +13,8 @@ if (!$conn) {
 }
 
 phatbeo vua beo vua map
+phat map dit beo u
+hello
 // 2. LOGIC LỌC & TÌM KIẾM SẢN PHẨM Ở ĐÂY
     if (isset($_GET['timkiem']) && $_GET['timkiem'] != '') {
         // TRƯỜNG HỢP 1: NGƯỜI DÙNG GÕ TỪ KHÓA TÌM KIẾM
