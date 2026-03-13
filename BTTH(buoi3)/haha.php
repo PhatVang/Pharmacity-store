@@ -12,7 +12,7 @@ if (!$conn) {
     die("Kết nối thất bại: " . mysqli_connect_error());
 }
 
-
+phatbeo vua beo vua map
 // 2. LOGIC LỌC & TÌM KIẾM SẢN PHẨM Ở ĐÂY
     if (isset($_GET['timkiem']) && $_GET['timkiem'] != '') {
         // TRƯỜNG HỢP 1: NGƯỜI DÙNG GÕ TỪ KHÓA TÌM KIẾM
